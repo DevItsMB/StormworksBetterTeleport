@@ -26,5 +26,6 @@ This Vanilla Stormworks Modifaction allows you to get better teleportation point
   <td  
   </tr>
 </table>
+
 ---
 Note: This modification is not supported by the Developers of Stormworks: Build and rescue in anyway.
