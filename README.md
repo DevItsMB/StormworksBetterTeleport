@@ -18,7 +18,7 @@ This Vanilla Stormworks Modifaction allows you to get better teleportation point
 <table width="100%"> 
   <tr>
     <td>Multiplayer Island</td>
-    <td><img src="https://file.coffee/u/fqXRcWFJ1i.jpeg"></td>
+    <td>style="width:50px; height:50px <img src="https://file.coffee/u/fqXRcWFJ1i.jpeg"></td>
     <td  
   </tr>
 </table>
