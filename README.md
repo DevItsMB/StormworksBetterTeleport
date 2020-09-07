@@ -15,9 +15,13 @@ This Vanilla Stormworks Modifaction allows you to get better teleportation point
 5. Launch your game and enjoy your new custom teleport points
 
 ## Mod Content
-**Artic 
-- [x] Custom TP Point
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+<table width="100%"> 
+  <tr>
+    <td>Multiplayer Island</td>
+    <td><img src="https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/verified_developer_badge.png" alt="Discord Verified Dev Badge" /></td>
+    <td  
+  </tr>
+</table>
+
 ---
 Note: This modification is not supported by the Developers of Stormworks: Build and rescue in anyway.
