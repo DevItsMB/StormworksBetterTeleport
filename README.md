@@ -13,3 +13,6 @@ This Vanilla Stormworks Modifaction allows you to get better teleportation point
 3. Make a backup of: arctic_island_playerbase.xml | island_43_multiplayer_base.xml | mega_island_15_2.xml | by making a copy of them in any location on your pc (Outside of the stormworks directory)
 4. Extract the downloaded files there and replace when prompted to
 5. Launch your game and enjoy your new custom teleport points
+
+---
+Note: This modification is not supported by the Developers of Stormworks: Build and rescue in anyway.
