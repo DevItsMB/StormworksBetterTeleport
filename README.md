@@ -14,5 +14,7 @@ This Vanilla Stormworks Modifaction allows you to get better teleportation point
 4. Extract the downloaded files there and replace when prompted to
 5. Launch your game and enjoy your new custom teleport points
 
+# Mod Content
+
 ---
 Note: This modification is not supported by the Developers of Stormworks: Build and rescue in anyway.
