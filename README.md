@@ -1,11 +1,11 @@
-# StormworksBetterTeleport
+## StormworksBetterTeleport
 
 <img src="https://img.shields.io/github/followers/DevItsMB?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" /> <img src="https://img.shields.io/discord/627232712960507927?logo=discord&style=for-the-badge" /> 
 
 This Vanilla Stormworks Modifaction allows you to get better teleportation points for most islands.
 
 
-# Installing
+## Installing
 [<img src="https://img.shields.io/github/downloads/DevItsMB/StormworksBetterTeleport/latest/total.svg?label=%E2%A4%93Download&style=plastic" height="48px" />](https://github.com/DevItsMB/StormworksBetterTeleport/releases/latest)
 
 1. Go to your Stormworks directory
@@ -14,7 +14,10 @@ This Vanilla Stormworks Modifaction allows you to get better teleportation point
 4. Extract the downloaded files there and replace when prompted to
 5. Launch your game and enjoy your new custom teleport points
 
-# Mod Content
-
+## Mod Content
+**Artic 
+- [x] Custom TP Point
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
 ---
 Note: This modification is not supported by the Developers of Stormworks: Build and rescue in anyway.
