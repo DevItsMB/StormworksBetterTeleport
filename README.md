@@ -19,7 +19,7 @@ This Vanilla Stormworks Modifaction allows you to get better teleportation point
   <tr>
     <td style="width:50px; height:50px; background-color:red;text-align:center; vertical-align:middle">
     <img src="https://file.coffee/u/fqXRcWFJ1i.jpeg"  style="max-height:100%; max-width:100%"/>
-     <td style="width:50px; height:50px; background-color:red;text-align:center; vertical-align:middle">
+     <td style="width:40px; height:40px; background-color:red;text-align:center; vertical-align:middle">
     <img src="https://file.coffee/u/-YWbhKfyZi.jpeg"  style="max-height:100%; max-width:100%"/>
   <td  
   </tr>
