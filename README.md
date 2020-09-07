@@ -1,7 +1,6 @@
 # StormworksBetterTeleport
 
-<img src="https://img.shields.io/github/followers/DevItsMB?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" /> <img src="https://img.shields.io/discord/627232712960507927?logo=discord&style=for-the-badge" /> <img src="https://img.shields.io/github/downloads/DevItsMB/StormworksBetterTeleport/total?style=for-the-badge
-" alt="GitHub badge" />
+<img src="https://img.shields.io/github/followers/DevItsMB?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" /> <img src="https://img.shields.io/discord/627232712960507927?logo=discord&style=for-the-badge" /> <img src="https://img.shields.io/github/downloads/DevItsMB/StormworksBetterTeleport/total?style=for-the-badge" alt="GitHub badge" />
 
 This Vanilla Stormworks Modifaction allows you to get better teleportation points for most islands.
 
